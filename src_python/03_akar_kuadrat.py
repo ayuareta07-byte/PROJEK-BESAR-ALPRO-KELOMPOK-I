@@ -9,6 +9,7 @@ Original file is located at
 
 #PROGRAM 3
 #skenario 1
+#INPUT a=1 , b=6 , c=9 
 import math
 a = float(input("Masukkan nilai a: "))
 b = float(input("Masukkan nilai b: "))
@@ -25,6 +26,7 @@ else:
     print("Persamaan hanya memiliki akar-akar imajiner.")
 
 #skenario 2
+#INPUT a=1 , b=5 , c=6
 import math
 a = float(input("Masukkan nilai a: "))
 b = float(input("Masukkan nilai b: "))
@@ -41,6 +43,7 @@ else:
     print("Persamaan hanya memiliki akar-akar imajiner.")
 
 #skenario 3
+#INPUT a=1 , b=0 , c=3
 import math
 a = float(input("Masukkan nilai a: "))
 b = float(input("Masukkan nilai b: "))
