@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1aoHFQmgg5RLW0DUcoSsASVVsmrCiv4Lm
 """
 
-#PROGRAM 5
+#PROGRAM 4
 #SKENARIO RELEVAN & TIDAK RELEVAN
 nip = input("Masukkan NIP ASN (minimal 8 digit): ")
 
